@@ -7,7 +7,7 @@ This tutorial outlines the implementation of sharing out resources over the netw
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure
 - Remote Desktop
 - Active Directory Domain Services
 
@@ -18,9 +18,9 @@ This tutorial outlines the implementation of sharing out resources over the netw
 
 <h2>File Sharing and Configuring Permissions Process</h2>
 
-- Create file shares with various permissions. 
-- Attempt to access file shares as a normal user.
-- Create a Security Group assign permissions and test access. 
+- Create file shares with various permissions
+- Attempt to access file shares as a normal user
+- Create a Security Group assign permissions and test access 
 
 <h2>Create file shares with various permissions</h2>
 
